@@ -9,3 +9,5 @@ A lightweight, high-performance Machine Learning and Natural Language Processing
 ## Tech Stack
 * **Language:** Python 3
 * **Libraries:** Scikit-Learn
+
+* ![Terminal Demo](terminal_output.png)
